@@ -1,44 +1,92 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>https://tatkalsoftware.io/index.html</loc>
-	</url>
-	<url>
-		<loc>https://tatkalsoftware.io/page11.html</loc>
-	</url>
-	<url>
-		<loc>https://tatkalsoftware.io/Contactus.html</loc>
-	</url>
-	<url>
-		<loc>https://tatkalsoftware.io/aboutus.html</loc>
-	</url>
-	<url>
-		<loc>https://tatkalsoftware.io/privacy.html</loc>
-	</url>
-	<url>
-		<loc>https://tatkalsoftware.io/disclaimer.html</loc>
-	</url>
-	<url>
-		<loc>https://tatkalsoftware.io/covid19.html</loc>
-	</url>
-	<url>
-		<loc>https://tatkalsoftware.io/nexus.html</loc>
-	</url>
-	<url>
-		<loc>https://tatkalsoftware.io/vps.html</loc>
-	</url>
-	<url>
-		<loc>https://tatkalsoftware.io/Proxy.html</loc>
-	</url>
-	<url>
-		<loc>https://tatkalsoftware.io/id.html</loc>
-	</url>
-	<url>
-		<loc>https://tatkalsoftware.io/Knowledge.html</loc>
-	</url>
-	<url>
-		<loc>https://tatkalsoftware.io/teams&condition.html</loc>
-	</url>
-	<url>
-		<loc>https://tatkalsoftware.io/nexusapro.html</loc>
-	</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://tatkalsoftware.io/</loc>
+  <lastmod>2023-06-15T12:13:14+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://tatkalsoftware.io/index.html</loc>
+  <lastmod>2023-06-15T12:13:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tatkalsoftware.io/covid19.html</loc>
+  <lastmod>2023-06-15T12:13:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tatkalsoftware.io/nexus.html</loc>
+  <lastmod>2023-06-15T12:13:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tatkalsoftware.io/nexusapro.html</loc>
+  <lastmod>2023-06-15T12:13:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tatkalsoftware.io/vps.html</loc>
+  <lastmod>2023-06-15T12:13:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tatkalsoftware.io/Proxy.html</loc>
+  <lastmod>2023-06-15T12:13:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tatkalsoftware.io/id.html</loc>
+  <lastmod>2023-06-15T12:13:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tatkalsoftware.io/Knowledge.html</loc>
+  <lastmod>2023-06-15T12:13:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tatkalsoftware.io/tatkaladda.html</loc>
+  <lastmod>2023-06-15T12:13:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tatkalsoftware.io/aboutus.html</loc>
+  <lastmod>2023-06-15T12:13:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tatkalsoftware.io/Contactus.html</loc>
+  <lastmod>2023-06-15T12:13:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tatkalsoftware.io/privacy.html</loc>
+  <lastmod>2023-06-15T12:13:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tatkalsoftware.io/disclaimer.html</loc>
+  <lastmod>2023-06-15T12:13:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tatkalsoftware.io/page11.html</loc>
+  <lastmod>2023-06-15T12:13:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tatkalsoftware.io/assets/files/Covid-19.pdf</loc>
+  <lastmod>2023-06-15T12:13:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
